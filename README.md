@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/387e328c-5c76-4a4a-9b75-883d47239fa8" width="100%" />
+<img src="https://chatgpt.com/s/m_6a5df332cf7881918668a89cb024b911" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Pradeep</h1>
