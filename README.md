@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./github-banner.png"width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:36BCF7&height=220&section=header&text=Hi%20👋,%20I'm%20Pradeep&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Python%20Full%20Stack%20Developer&descAlignY=55&descSize=18"width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Pradeep</h1>
@@ -34,7 +34,7 @@
 
 ## 🚀 Featured Projects
 
-### 🍽️ PK Treats Cafe Website
+### 🍽️ Green Plate
 - Responsive Cafe Website
 - HTML, CSS, Bootstrap, JavaScript
 - Category-wise Menu Filtering
